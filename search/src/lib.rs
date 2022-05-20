@@ -112,9 +112,3 @@ mod tests {
         assert_eq!(res, Some(2));
     }
 }
-
-/*
-TODO: Tests to add for:
-1. multiple targets exists
-2. string match
-*/
